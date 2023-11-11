@@ -1,16 +1,27 @@
-### Hi there 👋
+### Andrii Yermienieu
+- Passionate about tech and infra
+- Love surfing and hockey
 
-<!--
-**dkzippa/dkzippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience 🛠️
+- commercial devops experience
+- commercial development experience
+- unix/linux administrator experience
 
-Here are some ideas to get you started:
+- Solid understanding of SDLC process and principles
+- Experience working with cloud infrastructure
+  
+- English - Upper-Intermediate
+  
+- Excellent communication and problem-solving skills
+- Rapid understanding of business domain
+- Strong focus on security and reliability
+  
+### Education 🎓
+- [CS Master’s Degree] @ National University of Kyiv-Mohyla Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+_More information in my [LinkedIn](https://www.linkedin.com/in/aermeneu/)_ 🚀
+
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=dkzippa&color=36b812)<br>
