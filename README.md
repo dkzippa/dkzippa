@@ -19,9 +19,10 @@
 ### Education 🎓
 - [CS Master’s Degree] @ National University of Kyiv-Mohyla Academy
 
-<br>
+\
+\
 _More information in my [LinkedIn](https://www.linkedin.com/in/aermeneu/)_ 🚀
-
-<br>
-<br>
-![](https://komarev.com/ghpvc/?username=dkzippa&color=36b812)<br>
+\
+\
+\
+![](https://komarev.com/ghpvc/?username=dkzippa&color=36b812)
